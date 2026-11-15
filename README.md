@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/OS-Windows%2010%20%2F%2011-blue?style=for-the-badge&logo=windows" alt="Windows">
   <img src="https://img.shields.io/badge/Arch-x64-orange?style=for-the-badge" alt="Architecture x64">
   <img src="https://img.shields.io/badge/Status-Working-success?style=for-the-badge" alt="Status">
-  <img src="https://img.shields.io/badge/Bypass-EAC%20Unlocked-BE%20Unlocked-VANGUARD%20Unlocked-critical?style=for-the-badge" alt="Bypass">
+  <img src="https://img.shields.io/badge/Bypass-EAC/BE%20Unlocked-critical?style=for-the-badge" alt="Bypass">
 </p>
 
 ---
